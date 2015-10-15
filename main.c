@@ -17,6 +17,6 @@ void main() {
             notas[j+1] = aux;
         }
     }
-    printf("o maior numero digitado foi: %2.f: \n\n", notas[2]);
+    printf("o maior numero digitado foi: %2.f \n\n", notas[2]);
     system("pause");
 }
